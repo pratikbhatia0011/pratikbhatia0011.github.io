@@ -7,15 +7,12 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: One step at a time
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
+
 github_username: pratikbhatia0011
 
-# Email and twitter are optional:
-email:
-twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math: True
+use_math: 
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
