@@ -1,3 +1,1 @@
-Hello and welcome to this blog.  All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). 
-
-## Fumbling around
+Hello and welcome to this blog. This is an attempt to learn how to write, understand ideas and share. 
