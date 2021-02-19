@@ -12,7 +12,7 @@ github_username: pratikbhatia0011
 
 
 # Set this to true to get LaTeX math equation support
-use_math: 
+use_math: True
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
